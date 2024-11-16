@@ -1,7 +1,12 @@
 # TEST-WEBSOCKET
 
 ## Description
-웹소켓 구현 연습 및 연습사용
+웹소켓 구현 연습 및 연습사용<br>
+.venv사용 권장
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
 
 ## Module
 - channels 
